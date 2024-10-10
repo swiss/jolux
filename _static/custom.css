@@ -1,0 +1,7 @@
+.execute-query-link {
+    margin-left: 10px; /* Push the link to the right */
+}
+
+.docutils.literal.notranslate {
+    color: black !important;
+}
