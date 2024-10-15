@@ -1,0 +1,31 @@
+.execute-query-link {
+    margin-left: 10px; /* Push the link to the right */
+}
+
+.docutils.literal.notranslate {
+    color: black !important;
+}
+
+img.max-width-300 {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+}
+
+img.max-width-400 {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+}
+
+img.max-width-500 {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+}
+
+img.max-width-600 {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+}
